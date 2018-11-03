@@ -63,7 +63,7 @@ export default class Home extends Component {
     return (
       <div className="lander">
         <h1>Scratch</h1>
-        <p>TNow iw th t time</p>
+        <p>now it's time to build</p>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
             Login
