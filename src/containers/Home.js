@@ -62,8 +62,8 @@ export default class Home extends Component {
   renderLander() {
     return (
       <div className="lander">
-        <h1>Gatsbie</h1>
-        <p>Hello there</p>
+        <h1>Hire a Growth Expert</h1>
+        <p>Gatsbie is a proven growth agency that offers hands-on training.</p>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
             Login
